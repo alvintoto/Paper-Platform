@@ -1,0 +1,723 @@
+﻿Log file open, 05/31/18 21:20:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1541236552) SRandInit(-1541236552).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 29.593090
+LogD3D11RHI: Aftermath initialized
+LogConfig: Warning: Failed to saved backup for config[EditorSettings]
+LogConfig: Warning: Failed to saved backup for config[Compat]
+LogConfig: Warning: Failed to saved backup for config[Lightmass]
+LogConfig: Warning: Failed to saved backup for config[Scalability]
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogConfig: Warning: Failed to saved backup for config[AndroidMoviePlayer]
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Warning: Module file ../../../../../Unreal Projects/untitled-project/MyProject/Binaries/Win64/UE4Editor-MyProject-1658.dll is missing. This is likely a stale module that must be recompiled.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Warning: Incompatible or missing module: UE4Editor-MyProject.dll
+Running D:/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe MyProject Development Win64 -project="D:/Unreal Projects/untitled-project/MyProject/MyProject.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build.
+Creating makefile for MyProject (no existing makefile)
+@progress push 5%
+@progress pop
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-2180.dll".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-2180.pdb".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-3466.dll".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-3466.pdb".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-4171.dll".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-4171.pdb".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-4784.dll".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-4784.pdb".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-5046.dll".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-5046.pdb".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-5714.dll".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-5714.pdb".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-6610.dll".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-6610.pdb".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-7825.dll".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-7825.pdb".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-9451.dll".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-9451.pdb".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-9883.dll".
+Deleting old hot reload file: "D:\Unreal Projects\untitled-project\MyProject\Binaries\Win64\UE4Editor-MyProject-9883.pdb".
+Performing 2 actions (4 in parallel)
+[1/2] Link UE4Editor-MyProject.dll
+[2/2] Link UE4Editor-MyProject.lib
+   Creating library D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.lib and object D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.exp
+   Creating library D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.suppressed.lib and object D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.suppressed.exp
+Total build time: 118.62 seconds (Local executor: 2.34 seconds)
+LogModuleManager: Display: Found up-to-date module file ../../../../../Unreal Projects/untitled-project/MyProject/Binaries/Win64/UE4Editor-MyProject.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.01-04.22.52:200][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.01-04.22.52:200][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.01-04.22.52:310][  0]LogInit: Computer: LAPTOP-MFNR11KR
+[2018.06.01-04.22.52:310][  0]LogInit: User: Alvin
+[2018.06.01-04.22.52:310][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.01-04.22.52:310][  0]LogInit: High frequency timer resolution =2.742194 MHz
+[2018.06.01-04.22.52:314][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.06.01-04.22.52:314][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.01-04.22.52:314][  0]LogMemory: Process Physical Memory: 275.58 MB used, 275.58 MB peak
+[2018.06.01-04.22.52:314][  0]LogMemory: Process Virtual Memory: 270.52 MB used, 270.52 MB peak
+[2018.06.01-04.22.52:314][  0]LogMemory: Physical Memory: 5361.66 MB used,  10907.16 MB free, 16268.82 MB total
+[2018.06.01-04.22.52:314][  0]LogMemory: Virtual Memory: 4829.60 MB used,  10907.16 MB free, 134217728.00 MB total
+[2018.06.01-04.22.53:041][  0]LogInit: Using OS detected language (en-US).
+[2018.06.01-04.22.53:041][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.01-04.22.53:481][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.01-04.22.54:312][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.01-04.22.59:619][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.01-04.23.00:555][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.06.01-04.23.00:555][  0]LogD3D11RHI:       4021/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.01-04.23.00:607][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.06.01-04.23.00:607][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.06.01-04.23.00:610][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.01-04.23.00:610][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.01-04.23.00:610][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.01-04.23.00:638][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.01-04.23.00:639][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.06.01-04.23.00:639][  0]LogWindows: EnumDisplayDevices:
+[2018.06.01-04.23.00:639][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.06.01-04.23.00:669][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.06.01-04.23.00:669][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.06.01-04.23.00:669][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.01-04.23.00:669][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.06.01-04.23.00:669][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.01-04.23.00:669][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.01-04.23.00:669][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.06.01-04.23.00:720][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.01-04.23.01:239][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.01-04.23.01:309][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../Unreal Projects/untitled-project/MyProject/Intermediate/Shaders/WorkingDirectory/4468/).
+[2018.06.01-04.23.01:309][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alvin/AppData/Local/Temp/UnrealShaderWorkingDir/8CD46D9542759BE705598AA0603E82F7/'.
+[2018.06.01-04.23.01:325][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.01-04.23.06:171][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.01-04.23.06:212][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.01-04.23.07:487][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.01-04.23.07:530][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.01-04.23.07:587][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.01-04.23.07:630][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.01-04.23.07:673][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.01-04.23.07:713][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.01-04.23.07:759][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.01-04.23.07:800][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.01-04.23.07:841][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.01-04.23.07:886][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.01-04.23.07:924][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.01-04.23.07:969][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.01-04.23.08:065][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.01-04.23.08:065][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.01-04.23.08:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.01-04.23.08:161][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.01-04.23.08:361][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.01-04.23.08:413][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.01-04.23.08:459][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.01-04.23.08:499][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.01-04.23.08:540][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.01-04.23.08:606][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.01-04.23.08:606][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.01-04.23.10:418][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.01-04.23.10:728][  0]LogDerivedDataCache: Loaded boot cache 0.31s 78MB C:/Users/Alvin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.01-04.23.10:728][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alvin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.06.01-04.23.10:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/untitled-project/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.01-04.23.10:728][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.01-04.23.10:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/untitled-project/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.01-04.23.10:728][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.01-04.23.10:846][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.01-04.23.10:859][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alvin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.01-04.23.11:019][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.01-04.23.11:127][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.01-04.23.11:237][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.01-04.23.11:247][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.01-04.23.23:918][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.01-04.23.26:637][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.01-04.23.26:734][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.01-04.23.26:744][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.01-04.23.26:754][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.01-04.23.26:754][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.01-04.23.26:754][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.01-04.23.27:371][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2018.06.01-04.23.30:357][  0]LogAssetRegistry: FAssetRegistry took 0.0510 seconds to start up
+[2018.06.01-04.23.36:135][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.203956 seconds
+[2018.06.01-04.23.36:143][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.06.01-04.23.36:143][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.06.01-04.23.36:143][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.01-04.23.36:227][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.06.01-04.24.26:063][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.01-04.24.26:133][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.01-04.24.29:809][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.06.01-04.24.31:198][  0]SourceControl: Source control is disabled
+[2018.06.01-04.24.31:219][  0]SourceControl: Source control is disabled
+[2018.06.01-04.24.31:339][  0]SourceControl: Source control is disabled
+[2018.06.01-04.24.31:483][  0]SourceControl: Source control is disabled
+[2018.06.01-04.24.34:910][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.01-04.24.35:285][  0]LogOcInput: OculusInput pre-init called
+[2018.06.01-04.24.36:837][  0]LogEngine: Initializing Engine...
+[2018.06.01-04.24.36:975][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.01-04.24.37:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.01-04.24.37:912][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2018.06.01-04.24.38:773][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.01-04.24.39:932][  0]LogInit: XAudio2 using 'Headphones (LG HBS820 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.01-04.24.39:956][  0]LogInit: FAudioDevice initialized.
+[2018.06.01-04.24.40:145][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/Alvin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.01-04.24.40:182][  0]LogInit: Texture streaming: Enabled
+[2018.06.01-04.24.41:099][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.01-04.24.41:539][  0]LogInit: Transaction tracking system initialized
+[2018.06.01-04.24.42:403][  0]BlueprintLog: New page: Editor Load
+[2018.06.01-04.24.45:437][  0]LocalizationService: Localization service is disabled
+[2018.06.01-04.24.48:547][  0]LogConsoleResponse: Display: 
+[2018.06.01-04.24.50:759][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/untitled-project/MyProject/Content/' took 0.03s
+[2018.06.01-04.24.50:759][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.01-04.24.50:760][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.01-04.24.50:774][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.01-04.24.55:251][  0]SourceControl: Source control is disabled
+[2018.06.01-04.24.55:498][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverwordlLevel0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.01-04.24.55:536][  0]LightingResults: New page: Lighting Build
+[2018.06.01-04.24.56:377][  0]MapCheck: New page: Map Check
+[2018.06.01-04.24.56:377][  0]LightingResults: New page: Lighting Build
+[2018.06.01-04.25.11:676][  0]LogAIModule: Creating AISystem for world OverwordlLevel0
+[2018.06.01-04.25.12:347][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.01-04.25.12:519][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.01-04.25.12:638][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110.755ms to complete.
+[2018.06.01-04.25.12:639][  0]LogFileHelpers: Loading map 'OverwordlLevel0' took 17.174
+[2018.06.01-04.25.16:574][  0]LogCollectionManager: Loaded 0 collections in 0.001544 seconds
+[2018.06.01-04.25.16:878][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/untitled-project/MyProject/Saved/Collections/' took 0.01s
+[2018.06.01-04.25.16:878][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/untitled-project/MyProject/Content/Developers/Alvin/Collections/' took 0.01s
+[2018.06.01-04.25.16:878][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/untitled-project/MyProject/Content/Collections/' took 0.01s
+[2018.06.01-04.25.16:878][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.01-04.25.16:924][  0]LogContentBrowser: Native class hierarchy populated in 0.0419 seconds. Added 2367 classes and 524 folders.
+[2018.06.01-04.25.17:190][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.06.01-04.25.19:325][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.06.01-04.25.19:685][  0]LogSlate: Took 0.019805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.01-04.25.19:794][  0]LogSlate: Took 0.014468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.01-04.25.19:857][  0]LogSlate: Took 0.023212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.01-04.25.20:496][  0]LogRenderer: Reallocating scene render targets to support 1516x576 Format 10 NumSamples 1 (Frame:1).
+[2018.06.01-04.25.21:457][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.06.01-04.25.21:457][  0]LogLoad: (Engine Initialization) Total time: 385.15 seconds
+[2018.06.01-04.25.21:457][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.01-04.25.21:484][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.06.01-04.25.24:383][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.01-04.25.24:956][  1]LogSlate: Took 0.014659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.01-04.25.25:113][  2]LogSlate: Took 0.002418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.01-04.25.25:146][  3]LogAssetRegistry: Asset discovery search completed in 114.8133 seconds
+[2018.06.01-04.25.25:170][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.01-04.25.25:171][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000081 seconds (updated 0 objects)
+[2018.06.01-04.32.05:910][869]SourceControl: On branch master
+[2018.06.01-04.32.05:910][869]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.06.01-04.32.05:910][869]SourceControl: Changes not staged for commit:
+[2018.06.01-04.32.05:910][869]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.06.01-04.32.05:910][869]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.06.01-04.32.05:910][869]SourceControl: 	modified:   MyProject/Binaries/Win64/UE4Editor-MyProject.pdb
+[2018.06.01-04.32.05:910][869]SourceControl: 	modified:   MyProject/Config/DefaultEngine.ini
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Aim_Space_Hip.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Aim_Space_Ironsights.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/BS_CrouchWalk.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/BS_Jog.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Death_1.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Death_2.uasset
+[2018.06.01-04.32.05:910][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Death_3.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Death_Ironsights_1.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Death_Ironsights_2.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Equip_Pistol_Standing.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Equip_Rifle_Standing.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Fire_Rifle_Hip.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Hit_React_1.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Hit_React_2.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Hit_React_3.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Hit_React_4.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Idle_Pistol.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Idle_Rifle_Hip.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Jog_Lt_Rifle.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Jog_Rt_Rifle.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Jump_From_Jog.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Jump_From_Stand.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Prone_Death_1.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Prone_Death_2.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Prone_Fire_1.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Prone_Fire_2.uasset
+[2018.06.01-04.32.05:911][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Prone_Idle.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Prone_Reload_Rifle.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Prone_To_Stand.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Reload_Pistol.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Reload_Rifle_Hip.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Showcase.umap
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Stand_To_Prone.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Ue4ASP_Character.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	deleted:    MyProject/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	modified:   MyProject/Content/Blueprints/EnemyAI.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	modified:   MyProject/Content/Blueprints/OverworldCharacter.uasset
+[2018.06.01-04.32.05:912][869]SourceControl: 	modified:   MyProject/Content/Maps/OverwordlLevel0.umap
+[2018.06.01-04.32.05:912][869]SourceControl: 	modified:   MyProject/Intermediate/AssetRegistryCache/311563bb.bin
+[2018.06.01-04.32.05:912][869]SourceControl: 	modified:   MyProject/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.06.01-04.32.05:912][869]SourceControl: 	modified:   MyProject/Intermediate/Build/ActionHistory.bin
+[2018.06.01-04.32.05:912][869]SourceControl: 	modified:   MyProject/Intermediate/Build/BuildRules/MyProjectModuleRules.pdb
+[2018.06.01-04.32.05:912][869]SourceControl: 	modified:   MyProject/Intermediate/Build/BuildRules/MyProjectModuleRulesSourceFiles.txt
+[2018.06.01-04.32.05:912][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Unused/MyProject.log
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/MyProjectEditor/DependencyCache.bin
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/MyProjectEditor/Development/Deploy.dat
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/MyProjectEditor/Development/HotReloadMakefile.ubt
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/MyProjectEditor/Development/Makefile.ubt
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/MyProjectEditor/Development/MyProjectEditor.uhtmanifest
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/MyProjectEditor/FlatCPPIncludes.bin
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/MyProject.cpp.obj.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/MyProject.init.gen.cpp.obj.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/MyProjectGameModeBase.cpp.obj.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/MyProjectGameModeBase.gen.cpp.obj.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/OverworldAI.cpp.obj.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/OverworldAI.gen.cpp.obj.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/OverworldCharacter.cpp.obj.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/OverworldCharacter.gen.cpp.obj.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-1259.dll.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-1674.dll.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-1674.lib.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-4435.dll.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-4435.lib.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5960.dll.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject.dll.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject.exp
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject.lib.response
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject.suppressed.exp
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Inc/MyProject/MyProject.init.gen.cpp
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Intermediate/Build/Win64/UE4Editor/Inc/MyProject/OverworldAI.gen.cpp
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Intermediate/Build/Win64/UE4Editor/Inc/MyProject/OverworldAI.generated.h
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Build/Win64/UE4Editor/Inc/MyProject/Timestamp
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/CachedAssetRegistry.bin
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/ProjectFiles/MyProject.vcxproj
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/ProjectFiles/MyProject.vcxproj.filters
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/ProjectFiles/UE4.vcxproj
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Intermediate/ProjectFiles/UE4.vcxproj.filters
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Saved/AutoScreenshot.png
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-51A18B6A47A7AB49A8AD49BF12C2781E/CrashReportClient.ini
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-556227AB471AE6BC24D207928B8459C8/CrashReportClient.ini
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-5E381E2840E481E0B717D1839A738A9C/CrashReportClient.ini
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-87D0F6334E5E15823A14E781D7B83669/CrashReportClient.ini
+[2018.06.01-04.32.05:913][869]SourceControl: 	deleted:    MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-F90FFB004E084A50781D7FB6FDF2949D/CrashReportClient.ini
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Saved/Config/Windows/Engine.ini
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Saved/Logs/MyProject.log
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Saved/Logs/MyProject_2.log
+[2018.06.01-04.32.05:913][869]SourceControl: 	modified:   MyProject/Source/MyProject/MyProject.Build.cs
+[2018.06.01-04.32.05:914][869]SourceControl: 	modified:   MyProject/Source/MyProject/Private/EnemyAI.cpp
+[2018.06.01-04.32.05:914][869]SourceControl: 	deleted:    MyProject/Source/MyProject/Private/HealthComponent.cpp
+[2018.06.01-04.32.05:914][869]SourceControl: 	deleted:    MyProject/Source/MyProject/Private/OverworldAI.cpp
+[2018.06.01-04.32.05:914][869]SourceControl: 	deleted:    MyProject/Source/MyProject/Private/SHealthComponent.cpp
+[2018.06.01-04.32.05:914][869]SourceControl: 	modified:   MyProject/Source/MyProject/Public/EnemyAI.h
+[2018.06.01-04.32.05:914][869]SourceControl: 	deleted:    MyProject/Source/MyProject/Public/HealthComponent.h
+[2018.06.01-04.32.05:914][869]SourceControl: 	deleted:    MyProject/Source/MyProject/Public/OverworldAI.h
+[2018.06.01-04.32.05:914][869]SourceControl: 	deleted:    MyProject/Source/MyProject/Public/SHealthComponent.h
+[2018.06.01-04.32.05:914][869]SourceControl: Untracked files:
+[2018.06.01-04.32.05:914][869]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Content/AI/
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/EnemyAI.cpp.obj.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/EnemyAI.gen.cpp.obj.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/HealthComponent.cpp.obj.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/HealthComponent.gen.cpp.obj.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/SHealthComponent.cpp.obj.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/MyProject/SHealthComponent.gen.cpp.obj.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-1658.dll.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-1658.lib.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-2180.dll.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-2180.exp
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-2180.lib.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-2180.suppressed.exp
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-3466.dll.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-3466.exp
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-3466.lib.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-3466.suppressed.exp
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-3781.dll.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-3781.lib.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-413.dll.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-413.lib.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-4171.dll.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-4171.exp
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-4171.lib.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-4171.suppressed.exp
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-4784.dll.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-4784.exp
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-4784.lib.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-4784.suppressed.exp
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-4943.dll.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-4943.lib.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5046.dll.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5046.exp
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5046.lib.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5046.suppressed.exp
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5536.dll.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5536.lib.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5714.dll.response
+[2018.06.01-04.32.05:914][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5714.exp
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5714.lib.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5714.suppressed.exp
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5951.dll.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-5951.lib.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-6268.dll.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-6268.lib.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-6610.dll.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-6610.exp
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-6610.lib.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-6610.suppressed.exp
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-7825.dll.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-7825.exp
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-7825.lib.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-7825.suppressed.exp
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-9451.dll.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-9451.exp
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-9451.lib.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-9451.suppressed.exp
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-9883.dll.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-9883.exp
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-9883.lib.response
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-MyProject-9883.suppressed.exp
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Inc/MyProject/EnemyAI.gen.cpp
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Intermediate/Build/Win64/UE4Editor/Inc/MyProject/EnemyAI.generated.h
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Autosaves/Game/AI/
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Autosaves/Game/Blueprints/
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Autosaves/Game/Maps/OverwordlLevel0_Auto1.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Autosaves/Game/Maps/OverwordlLevel0_Auto2.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Autosaves/Game/Maps/OverwordlLevel0_Auto3.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Autosaves/Game/Maps/OverwordlLevel0_Auto4.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/EnemyAI_2018-05-27-19-43-59.uasset
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/EnemyAI_2018-05-27-19-53-55.uasset
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/EnemyAI_2018-05-27-21-41-43.uasset
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/EnemyAI_2018-05-27-22-36-03.uasset
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/EnemyAI_2018-05-28-19-58-25.uasset
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/EnemyAI_2018-05-28-20-06-44.uasset
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverwordlLevel0_2018-05-27-19-43-58.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverwordlLevel0_2018-05-27-19-53-55.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverwordlLevel0_2018-05-27-21-41-43.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverwordlLevel0_2018-05-27-21-52-12.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverwordlLevel0_2018-05-27-21-58-43.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverwordlLevel0_2018-05-27-22-09-24.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverwordlLevel0_2018-05-27-22-19-50.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverwordlLevel0_2018-05-27-22-36-04.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverwordlLevel0_2018-05-28-19-03-14.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverwordlLevel0_2018-05-28-19-58-24.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverwordlLevel0_2018-05-28-20-08-31.umap
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverworldCharacter_2018-05-28-19-04-26.uasset
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Backup/OverworldCharacter_2018-05-28-19-43-58.uasset
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-3468D864464485ECE828BAB3CF58BB66/
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-4D1E99CA4222892A3B305687B8040AE1/
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Config/WorldState/4203529173.json
+[2018.06.01-04.32.05:915][869]SourceControl: 	MyProject/Saved/Crashes/
+[2018.06.01-04.32.05:916][869]SourceControl: 	MyProject/Saved/Logs/MyProject-backup-2018.05.27-19.25.57.log
+[2018.06.01-04.32.05:916][869]SourceControl: 	MyProject/Saved/Logs/MyProject-backup-2018.05.27-20.45.14.log
+[2018.06.01-04.32.05:916][869]SourceControl: 	MyProject/Saved/Logs/MyProject-backup-2018.05.27-21.27.44.log
+[2018.06.01-04.32.05:916][869]SourceControl: 	MyProject/Saved/Logs/MyProject-backup-2018.05.28-17.56.48.log
+[2018.06.01-04.32.05:916][869]SourceControl: 	MyProject/Saved/Logs/MyProject-backup-2018.05.28-18.02.50.log
+[2018.06.01-04.32.05:916][869]SourceControl: 	MyProject/Saved/Logs/MyProject-backup-2018.05.28-19.25.00.log
+[2018.06.01-04.32.05:916][869]SourceControl: 	MyProject/Saved/Logs/MyProject-backup-2018.05.31-21.20.35.log
+[2018.06.01-04.32.05:916][869]SourceControl: 	MyProject/Saved/Logs/MyProject_2-backup-2018.05.31-21.20.35.log
+[2018.06.01-04.32.05:916][869]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.06.01-04.32.26:638][288]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.01-04.32.27:947][288]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.01-04.32.28:358][288]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.06.01-04.35.42:329][989]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.01-04.35.43:651][ 59]LogEditorViewport: Clicking on Actor (LMB): EnemyAI_C (EnemyAI)

@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject-9883.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.cpp.obj"
+"D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectGameModeBase.cpp.obj"
+"D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\EnemyAI.cpp.obj"
+"D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\OverworldCharacter.cpp.obj"
+"D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\EnemyAI.gen.cpp.obj"
+"D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectGameModeBase.gen.cpp.obj"
+"D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\OverworldCharacter.gen.cpp.obj"
+"D:\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\MyProject\PCLaunch.rc.res"
+"D:\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject-9883.lib"

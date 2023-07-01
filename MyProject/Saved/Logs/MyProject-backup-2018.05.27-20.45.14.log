@@ -1,0 +1,1354 @@
+﻿Log file open, 05/27/18 19:25:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1548311289) SRandInit(-1548311289).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.176537
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Warning: Module file ../../../../../Unreal Projects/untitled-project/MyProject/Binaries/Win64/UE4Editor-MyProject.dll is missing. This is likely a stale module that must be recompiled.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Warning: Incompatible or missing module: UE4Editor-MyProject.dll
+Running D:/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe MyProject Development Win64 -project="D:/Unreal Projects/untitled-project/MyProject/MyProject.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build.
+Creating makefile for MyProject (no existing makefile)
+Performing full C++ include scan (no include cache file)
+@progress push 5%
+Parsing headers for MyProjectEditor
+  Running UnrealHeaderTool "D:\Unreal Projects\untitled-project\MyProject\MyProject.uproject" "D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for MyProjectEditor in 9.4670887 seconds
+@progress pop
+Performing 19 actions (4 in parallel)
+[2/19] Resource PCLaunch.rc
+[3/19] Resource ModuleVersionResource.rc.inl
+SharedPCH.Engine.cpp
+MyProject.cpp
+EnemyAI.gen.cpp
+MyProjectGameModeBase.cpp
+EnemyAI.cpp
+HealthComponent.cpp
+OverworldAI.cpp
+OverworldCharacter.cpp
+SHealthComponent.cpp
+HealthComponent.gen.cpp
+MyProject.init.gen.cpp
+MyProjectGameModeBase.gen.cpp
+OverworldAI.gen.cpp
+OverworldCharacter.gen.cpp
+SHealthComponent.gen.cpp
+[18/19] Link UE4Editor-MyProject.dll
+[19/19] Link UE4Editor-MyProject.lib
+   Creating library D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.lib and object D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.exp
+   Creating library D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.suppressed.lib and object D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.suppressed.exp
+Total build time: 49.12 seconds (Local executor: 33.58 seconds)
+LogModuleManager: Display: Found up-to-date module file ../../../../../Unreal Projects/untitled-project/MyProject/Binaries/Win64/UE4Editor-MyProject.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.28-02.26.49:992][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.28-02.26.49:992][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.28-02.26.50:009][  0]LogInit: Computer: LAPTOP-MFNR11KR
+[2018.05.28-02.26.50:009][  0]LogInit: User: Alvin
+[2018.05.28-02.26.50:009][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.28-02.26.50:009][  0]LogInit: High frequency timer resolution =2.742194 MHz
+[2018.05.28-02.26.50:009][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.28-02.26.50:009][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.28-02.26.50:009][  0]LogMemory: Process Physical Memory: 276.85 MB used, 276.85 MB peak
+[2018.05.28-02.26.50:009][  0]LogMemory: Process Virtual Memory: 272.51 MB used, 272.51 MB peak
+[2018.05.28-02.26.50:009][  0]LogMemory: Physical Memory: 6701.49 MB used,  9567.33 MB free, 16268.82 MB total
+[2018.05.28-02.26.50:009][  0]LogMemory: Virtual Memory: 4836.47 MB used,  9567.33 MB free, 134217728.00 MB total
+[2018.05.28-02.26.50:137][  0]LogInit: Using OS detected language (en-US).
+[2018.05.28-02.26.50:137][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.28-02.26.50:140][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.28-02.26.50:539][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.28-02.26.50:800][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.28-02.26.51:696][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.05.28-02.26.51:696][  0]LogD3D11RHI:       4021/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.28-02.26.51:703][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.05.28-02.26.51:703][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.28-02.26.51:704][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.28-02.26.51:704][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.28-02.26.51:704][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.28-02.26.51:720][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.28-02.26.51:721][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.05.28-02.26.51:721][  0]LogWindows: EnumDisplayDevices:
+[2018.05.28-02.26.51:721][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.05.28-02.26.51:721][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.28-02.26.51:721][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.28-02.26.51:721][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.28-02.26.51:721][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.05.28-02.26.51:721][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.28-02.26.51:721][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.28-02.26.51:721][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.05.28-02.26.51:763][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.28-02.26.51:795][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.28-02.26.51:795][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../Unreal Projects/untitled-project/MyProject/Intermediate/Shaders/WorkingDirectory/8368/).
+[2018.05.28-02.26.51:795][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alvin/AppData/Local/Temp/UnrealShaderWorkingDir/7F1E1B0F412878B6996266B3EB3E1A26/'.
+[2018.05.28-02.26.51:795][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.28-02.26.52:648][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.28-02.26.52:701][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.28-02.26.52:745][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.28-02.26.52:799][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.28-02.26.52:853][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.28-02.26.52:894][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.28-02.26.52:936][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.28-02.26.52:984][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.28-02.26.53:018][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.28-02.26.53:060][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.28-02.26.53:104][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.28-02.26.53:147][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.28-02.26.53:191][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.28-02.26.53:232][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.28-02.26.53:316][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.28-02.26.53:316][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.28-02.26.53:360][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.28-02.26.53:396][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.28-02.26.53:477][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.28-02.26.53:500][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.28-02.26.53:546][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.28-02.26.53:590][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.28-02.26.53:633][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.28-02.26.53:672][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.28-02.26.53:673][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.28-02.26.54:032][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.28-02.26.54:110][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Alvin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.28-02.26.54:110][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alvin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.28-02.26.54:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/untitled-project/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.28-02.26.54:110][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.28-02.26.54:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/untitled-project/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.28-02.26.54:110][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.28-02.26.54:128][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.28-02.26.54:140][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alvin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.28-02.26.54:152][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.28-02.26.54:152][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.28-02.26.54:153][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.28-02.26.54:153][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.28-02.26.54:517][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.28-02.26.54:820][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.28-02.26.54:855][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.28-02.26.54:855][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.28-02.26.54:855][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.28-02.26.54:855][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.28-02.26.54:855][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.28-02.26.54:888][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2018.05.28-02.26.55:038][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2018.05.28-02.26.55:507][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.074188 seconds
+[2018.05.28-02.26.55:513][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.28-02.26.55:513][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.05.28-02.26.55:513][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.28-02.26.55:549][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.28-02.26.58:098][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.28-02.26.58:135][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.28-02.26.58:776][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.28-02.26.59:152][  0]SourceControl: Source control is disabled
+[2018.05.28-02.26.59:152][  0]SourceControl: Source control is disabled
+[2018.05.28-02.26.59:200][  0]SourceControl: Source control is disabled
+[2018.05.28-02.26.59:246][  0]SourceControl: Source control is disabled
+[2018.05.28-02.26.59:930][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.28-02.27.00:165][  0]LogOcInput: OculusInput pre-init called
+[2018.05.28-02.27.00:404][  0]LogEngine: Initializing Engine...
+[2018.05.28-02.27.00:406][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.28-02.27.00:632][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.28-02.27.00:632][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.28-02.27.00:745][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.28-02.27.00:758][  0]LogInit: XAudio2 using 'Headphones (LG HBS820 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.28-02.27.00:771][  0]LogInit: FAudioDevice initialized.
+[2018.05.28-02.27.00:895][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Alvin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.28-02.27.00:912][  0]LogInit: Texture streaming: Enabled
+[2018.05.28-02.27.00:995][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.28-02.27.01:113][  0]LogInit: Transaction tracking system initialized
+[2018.05.28-02.27.01:386][  0]BlueprintLog: New page: Editor Load
+[2018.05.28-02.27.02:177][  0]LocalizationService: Localization service is disabled
+[2018.05.28-02.27.02:838][  0]LogConsoleResponse: Display: 
+[2018.05.28-02.27.03:005][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.28-02.27.03:005][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.28-02.27.03:005][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.28-02.27.03:268][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/untitled-project/MyProject/Content/' took 0.02s
+[2018.05.28-02.27.04:050][  0]SourceControl: Source control is disabled
+[2018.05.28-02.27.04:050][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverworldLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.28-02.27.04:054][  0]LightingResults: New page: Lighting Build
+[2018.05.28-02.27.04:090][  0]MapCheck: New page: Map Check
+[2018.05.28-02.27.04:090][  0]LightingResults: New page: Lighting Build
+[2018.05.28-02.27.04:635][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OverworldAI'
+[2018.05.28-02.27.04:635][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OverworldAI' while loading ../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverworldLevel1.umap.
+[2018.05.28-02.27.04:635][  0]LoadErrors: Error: /Game/Maps/OverworldLevel1 : Can't find file for asset. /Game/Blueprints/OverworldAI
+[2018.05.28-02.27.04:636][  0]LogLinker: Warning: Can't find file '/Game/Maps/OverworldLevel1_BuiltData'
+[2018.05.28-02.27.04:636][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/OverworldLevel1_BuiltData' while loading ../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverworldLevel1.umap.
+[2018.05.28-02.27.04:636][  0]LoadErrors: Error: /Game/Maps/OverworldLevel1 : Can't find file for asset. /Game/Maps/OverworldLevel1_BuiltData
+[2018.05.28-02.27.04:642][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OverworldAI'
+[2018.05.28-02.27.04:642][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OverworldAI' while loading ../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverworldLevel1.umap.
+[2018.05.28-02.27.04:642][  0]LoadErrors: Error: /Game/Maps/OverworldLevel1 : Can't find file for asset. /Game/Blueprints/OverworldAI
+[2018.05.28-02.27.04:822][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OverworldAI'
+[2018.05.28-02.27.04:822][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OverworldAI' while loading ../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverworldLevel1.umap.
+[2018.05.28-02.27.04:822][  0]LoadErrors: Error: /Game/Maps/OverworldLevel1 : Can't find file for asset. /Game/Blueprints/OverworldAI
+[2018.05.28-02.27.04:823][  0]LogLinker: Warning: Can't find file '/Game/Maps/OverworldLevel1_BuiltData'
+[2018.05.28-02.27.04:823][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/OverworldLevel1_BuiltData' while loading ../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverworldLevel1.umap.
+[2018.05.28-02.27.04:823][  0]LoadErrors: Error: /Game/Maps/OverworldLevel1 : Can't find file for asset. /Game/Maps/OverworldLevel1_BuiltData
+[2018.05.28-02.27.04:826][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OverworldAI'
+[2018.05.28-02.27.04:826][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OverworldAI' while loading ../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverworldLevel1.umap.
+[2018.05.28-02.27.04:826][  0]LoadErrors: Error: /Game/Maps/OverworldLevel1 : Can't find file for asset. /Game/Blueprints/OverworldAI
+[2018.05.28-02.27.04:861][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OverworldAI'
+[2018.05.28-02.27.04:861][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OverworldAI' while loading NULL.
+[2018.05.28-02.27.04:861][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OverworldAI'
+[2018.05.28-02.27.04:861][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OverworldAI' while loading NULL.
+[2018.05.28-02.27.04:863][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OverworldAI'
+[2018.05.28-02.27.04:863][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OverworldAI' while loading NULL.
+[2018.05.28-02.27.04:863][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OverworldAI'
+[2018.05.28-02.27.04:863][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OverworldAI' while loading NULL.
+[2018.05.28-02.27.04:914][  0]LogLinker: Warning: Can't find file '/Game/Maps/OverworldLevel1_BuiltData'
+[2018.05.28-02.27.04:915][  0]LoadErrors: Failed to load /Game/Maps/OverworldLevel1_BuiltData.OverworldLevel1_BuiltData Referenced by PersistentLevel
+[2018.05.28-02.27.04:915][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/OverworldLevel1_BuiltData' while loading NULL.
+[2018.05.28-02.27.04:915][  0]LoadErrors: Failed to load /Game/Maps/OverworldLevel1_BuiltData.OverworldLevel1_BuiltData Referenced by PersistentLevel
+[2018.05.28-02.27.04:916][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OverworldAI'
+[2018.05.28-02.27.04:916][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OverworldAI' while loading NULL.
+[2018.05.28-02.27.04:917][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/OverworldAI'
+[2018.05.28-02.27.04:917][  0]LoadErrors: Failed to load /Game/Blueprints/OverworldAI.OverworldAI_C Referenced by PersistentLevel
+[2018.05.28-02.27.04:919][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/OverworldAI' while loading NULL.
+[2018.05.28-02.27.04:920][  0]LoadErrors: Failed to load /Game/Blueprints/OverworldAI.OverworldAI_C Referenced by PersistentLevel
+[2018.05.28-02.27.06:064][  0]LogAIModule: Creating AISystem for world OverworldLevel1
+[2018.05.28-02.27.06:088][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.28-02.27.06:185][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.28-02.27.06:235][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.468ms to complete.
+[2018.05.28-02.27.06:235][  0]LogFileHelpers: Loading map 'OverworldLevel1' took 2.185
+[2018.05.28-02.27.06:492][  0]LogCollectionManager: Loaded 0 collections in 0.001290 seconds
+[2018.05.28-02.27.06:565][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/untitled-project/MyProject/Saved/Collections/' took 0.01s
+[2018.05.28-02.27.06:565][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/untitled-project/MyProject/Content/Developers/Alvin/Collections/' took 0.01s
+[2018.05.28-02.27.06:565][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/untitled-project/MyProject/Content/Collections/' took 0.01s
+[2018.05.28-02.27.06:565][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.28-02.27.06:575][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2370 classes and 524 folders.
+[2018.05.28-02.27.06:634][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.05.28-02.27.06:667][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.05.28-02.27.06:675][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.28-02.27.06:680][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.28-02.27.06:683][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.28-02.27.06:858][  0]LogRenderer: Reallocating scene render targets to support 1516x576 Format 10 NumSamples 1 (Frame:1).
+[2018.05.28-02.27.07:147][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.05.28-02.27.07:147][  0]LogLoad: (Engine Initialization) Total time: 70.82 seconds
+[2018.05.28-02.27.07:147][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.28-02.27.07:147][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.05.28-02.27.07:166][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.28-02.27.07:168][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'MeshComponent': OverworldAI_C /Game/Maps/OverworldLevel1.OverworldLevel1:PersistentLevel.OverworldAI_3
+[2018.05.28-02.27.07:183][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.28-02.27.07:225][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.28-02.27.17:495][536]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.28-02.27.27:704][148]LogAssetRegistry: Asset discovery search completed in 32.6879 seconds
+[2018.05.28-02.27.27:706][148]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2018.05.28-02.27.28:946][222]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.28-02.27.29:196][222]LogAIModule: Creating AISystem for world Showcase
+[2018.05.28-02.27.29:197][222]LogActorComponent: RegisterComponentWithWorld: (/Game/AnimStarterPack/Showcase.Showcase:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.05.28-02.27.29:234][222]LogBlueprint: Error: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.05.28-02.27.29:234][222]LogBlueprint: Error: [Compiler UE4ASP_HeroTPP_AnimBlueprint] In use pin  As Main Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.05.28-02.27.29:235][222]LogBlueprint: Error: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.05.28-02.27.29:242][222]LogBlueprint: Error: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.05.28-02.27.29:242][222]LogBlueprint: Error: [Compiler UE4ASP_HeroTPP_AnimBlueprint] In use pin  As Main Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.05.28-02.27.29:243][222]LogBlueprint: Error: [Compiler UE4ASP_HeroTPP_AnimBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.05.28-02.27.29:246][222]LogBlueprint: Warning: [Compiler UE4ASP_HeroTPP_AnimBlueprint] [0092.92] Compile of UE4ASP_HeroTPP_AnimBlueprint failed. 6 Fatal Issue(s) 0 Warning(s) [in 18 ms] (/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint)
+[2018.05.28-02.27.29:264][222]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2018.05.28-02.27.29:265][222]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.05.28-02.27.29:265][222]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.05.28-02.27.29:270][222]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0092.94] Compile of Ue4ASP_Character successful, but with 3 Warning(s) [in 11 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2018.05.28-02.27.46:782][222]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.28-02.27.52:604][491]LogLinker: Warning: Can't find file '/Game/Maps/OverwordlLevel0_BuiltData'
+[2018.05.28-02.27.52:604][491]LogLinker: Warning: Can't find file for asset '/Game/Maps/OverwordlLevel0_BuiltData' while loading ../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverwordlLevel0.umap.
+[2018.05.28-02.27.52:604][491]LoadErrors: Error: /Game/Maps/OverwordlLevel0 : Can't find file for asset. /Game/Maps/OverwordlLevel0_BuiltData
+[2018.05.28-02.27.52:692][491]LogLinker: Warning: Can't find file '/Game/Maps/OverwordlLevel0_BuiltData'
+[2018.05.28-02.27.52:692][491]LogLinker: Warning: Can't find file for asset '/Game/Maps/OverwordlLevel0_BuiltData' while loading ../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverwordlLevel0.umap.
+[2018.05.28-02.27.52:749][491]LogLinker: Warning: Can't find file '/Game/Maps/OverwordlLevel0_BuiltData'
+[2018.05.28-02.27.52:749][491]LoadErrors: Failed to load /Game/Maps/OverwordlLevel0_BuiltData.OverwordlLevel0_BuiltData Referenced by PersistentLevel
+[2018.05.28-02.27.52:749][491]LogLinker: Warning: Can't find file for asset '/Game/Maps/OverwordlLevel0_BuiltData' while loading NULL.
+[2018.05.28-02.27.52:874][491]LogAIModule: Creating AISystem for world OverwordlLevel0
+[2018.05.28-02.27.52:930][491]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverwordlLevel0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.28-02.27.52:930][491]LightingResults: New page: Lighting Build
+[2018.05.28-02.27.52:931][491]LoadErrors: New page: Loading map: OverwordlLevel0.umap
+[2018.05.28-02.27.52:960][491]MapCheck: New page: Map Check
+[2018.05.28-02.27.52:960][491]LightingResults: New page: Lighting Build
+[2018.05.28-02.27.53:082][491]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.28-02.27.53:121][491]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.28-02.27.53:171][491]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.77ms to complete.
+[2018.05.28-02.27.53:171][491]LogFileHelpers: Loading map 'OverwordlLevel0' took 0.245
+[2018.05.28-02.28.00:516][746]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2018.05.28-02.28.00:516][746]LogTemp: CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.28-02.28.00:516][746]LogTemp: Initial Dir: D:\Epic Games\UE_4.18
+[2018.05.28-02.28.00:517][746]LogTemp: Env CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.28-02.28.00:517][746]LogTemp: BranchPath = LAPTOP-MFNR11KR/D/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = LAPTOP-MFNR11KR/D/Epic Games/UE_4.18/Engine/Binaries
+[2018.05.28-02.28.00:517][746]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Alvin\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.28-02.28.00:517][746]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.28-02.28.10:128][313]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.28-02.28.32:881][576]LogLinker: Warning: Can't find file '/Game/AI/Idle/Idle'
+[2018.05.28-02.28.32:881][576]LogLinker: Warning: Can't find file for asset '/Game/AI/Idle/Idle' while loading ../../../../../Unreal Projects/untitled-project/MyProject/Content/Blueprints/EnemyAI.uasset.
+[2018.05.28-02.28.32:881][576]LoadErrors: Error: /Game/Blueprints/EnemyAI : Can't find file for asset. /Game/AI/Idle/Idle
+[2018.05.28-02.28.32:882][576]LogLinker: Warning: Can't find file '/Game/AI/Idle/Idle'
+[2018.05.28-02.28.32:882][576]LogLinker: Warning: Can't find file for asset '/Game/AI/Idle/Idle' while loading ../../../../../Unreal Projects/untitled-project/MyProject/Content/Blueprints/EnemyAI.uasset.
+[2018.05.28-02.28.32:882][576]LogLinker: Warning: Can't find file '/Game/AI/Idle/Idle'
+[2018.05.28-02.28.32:882][576]LogLinker: Warning: Can't find file for asset '/Game/AI/Idle/Idle' while loading NULL.
+[2018.05.28-02.28.32:883][576]LogLinker: Warning: Can't find file '/Game/AI/Idle/Idle'
+[2018.05.28-02.28.32:883][576]LogLinker: Warning: Can't find file for asset '/Game/AI/Idle/Idle' while loading NULL.
+[2018.05.28-02.28.32:883][576]LogLinker: Warning: Can't find file '/Game/AI/Idle/Idle'
+[2018.05.28-02.28.32:884][576]LoadErrors: Failed to load /Game/AI/Idle/Idle.Idle Referenced by Default__EnemyAI_C
+[2018.05.28-02.28.32:884][576]LogLinker: Warning: Can't find file for asset '/Game/AI/Idle/Idle' while loading NULL.
+[2018.05.28-02.28.33:202][576]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 116 classes and 0 folders.
+[2018.05.28-02.28.33:834][576]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.28-02.28.35:538][650]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.28-02.41.42:354][481]LogHotReload: New module detected: UE4Editor-MyProject-5743.dll
+[2018.05.28-02.41.43:028][484]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.28-02.41.43:125][484]LogClass: Could not find existing class EnemyAI in package /Script/MyProject for HotReload, assuming new class
+[2018.05.28-02.41.43:137][484]LogHotReload: Re-instancing EnemyAI after hot-reload.
+[2018.05.28-02.41.43:226][484]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0011 seconds. Added 6 classes and 3 folders.
+[2018.05.28-02.41.43:230][484]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.28-02.41.43:538][484]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2371 classes and 526 folders.
+[2018.05.28-02.41.43:547][484]Display: HotReload took  0.5s.
+[2018.05.28-02.41.45:356][553]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.05.28-02.41.45:359][553]Candidate modules for hot reload:
+[2018.05.28-02.41.45:359][553]  MyProject
+[2018.05.28-02.41.45:359][553]Launching UnrealBuildTool... [D:/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe MyProject -ModuleWithSuffix MyProject 133 Win64 Development -editorrecompile -canskiplink "D:/Unreal Projects/untitled-project/MyProject/MyProject.uproject" ]
+[2018.05.28-02.41.45:361][553]Warning: Starting HotReload took  0.0s.
+[2018.05.28-02.41.48:581][707]LogSlate: Took 0.000469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.28-02.41.50:073][794]CompilerResultsLog: New page: Compilation - May 27, 2018, 12:41:50 PM
+[2018.05.28-02.41.50:074][794]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.28-02.41.50:074][794]CompilerResultsLog: Creating makefile for hot reloading MyProject (modules to compile have changed)
+[2018.05.28-02.41.50:074][794]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.28-02.41.50:074][794]CompilerResultsLog: Target is up to date
+[2018.05.28-02.41.50:074][794]CompilerResultsLog: Total build time: 4.50 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.05.28-02.41.50:074][794]LogMainFrame: MainFrame: Module compiling took 4.718 seconds
+[2018.05.28-02.41.50:341][794]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2371 classes and 526 folders.
+[2018.05.28-02.41.50:345][794]Display: HotReload took  5.0s.
+[2018.05.28-02.42.08:127][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0001.png)
+[2018.05.28-02.42.08:138][683]LogTexture: Display: Building textures: EnemyWalk0001 (BGRA8, 550X400)
+[2018.05.28-02.42.08:164][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0002.png)
+[2018.05.28-02.42.08:174][683]LogTexture: Display: Building textures: EnemyWalk0002 (BGRA8, 550X400)
+[2018.05.28-02.42.08:196][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0003.png)
+[2018.05.28-02.42.08:205][683]LogTexture: Display: Building textures: EnemyWalk0003 (BGRA8, 550X400)
+[2018.05.28-02.42.08:228][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0004.png)
+[2018.05.28-02.42.08:238][683]LogTexture: Display: Building textures: EnemyWalk0004 (BGRA8, 550X400)
+[2018.05.28-02.42.08:259][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0005.png)
+[2018.05.28-02.42.08:269][683]LogTexture: Display: Building textures: EnemyWalk0005 (BGRA8, 550X400)
+[2018.05.28-02.42.08:291][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0006.png)
+[2018.05.28-02.42.08:301][683]LogTexture: Display: Building textures: EnemyWalk0006 (BGRA8, 550X400)
+[2018.05.28-02.42.08:322][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0007.png)
+[2018.05.28-02.42.08:332][683]LogTexture: Display: Building textures: EnemyWalk0007 (BGRA8, 550X400)
+[2018.05.28-02.42.08:353][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0008.png)
+[2018.05.28-02.42.08:362][683]LogTexture: Display: Building textures: EnemyWalk0008 (BGRA8, 550X400)
+[2018.05.28-02.42.08:384][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0009.png)
+[2018.05.28-02.42.08:393][683]LogTexture: Display: Building textures: EnemyWalk0009 (BGRA8, 550X400)
+[2018.05.28-02.42.08:414][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0010.png)
+[2018.05.28-02.42.08:423][683]LogTexture: Display: Building textures: EnemyWalk0010 (BGRA8, 550X400)
+[2018.05.28-02.42.08:443][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0011.png)
+[2018.05.28-02.42.08:453][683]LogTexture: Display: Building textures: EnemyWalk0011 (BGRA8, 550X400)
+[2018.05.28-02.42.08:474][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0012.png)
+[2018.05.28-02.42.08:484][683]LogTexture: Display: Building textures: EnemyWalk0012 (BGRA8, 550X400)
+[2018.05.28-02.42.08:504][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0013.png)
+[2018.05.28-02.42.08:514][683]LogTexture: Display: Building textures: EnemyWalk0013 (BGRA8, 550X400)
+[2018.05.28-02.42.08:535][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0014.png)
+[2018.05.28-02.42.08:545][683]LogTexture: Display: Building textures: EnemyWalk0014 (BGRA8, 550X400)
+[2018.05.28-02.42.08:565][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0015.png)
+[2018.05.28-02.42.08:575][683]LogTexture: Display: Building textures: EnemyWalk0015 (BGRA8, 550X400)
+[2018.05.28-02.42.08:596][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0016.png)
+[2018.05.28-02.42.08:605][683]LogTexture: Display: Building textures: EnemyWalk0016 (BGRA8, 550X400)
+[2018.05.28-02.42.08:625][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0017.png)
+[2018.05.28-02.42.08:635][683]LogTexture: Display: Building textures: EnemyWalk0017 (BGRA8, 550X400)
+[2018.05.28-02.42.08:655][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0018.png)
+[2018.05.28-02.42.08:665][683]LogTexture: Display: Building textures: EnemyWalk0018 (BGRA8, 550X400)
+[2018.05.28-02.42.08:684][683]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Alvin/Downloads/EnemyWalk-20180528T014420Z-001/EnemyWalk/EnemyWalk0019.png)
+[2018.05.28-02.42.08:693][683]LogTexture: Display: Building textures: EnemyWalk0019 (BGRA8, 550X400)
+[2018.05.28-02.42.21:675][423]LogRenderer: Reallocating scene render targets to support 1516x712 Format 10 NumSamples 1 (Frame:1).
+[2018.05.28-02.42.35:092][218]BlueprintLog: New page: Compile EnemyAI
+[2018.05.28-02.42.52:862][207]BlueprintLog: New page: Compile EnemyAI
+[2018.05.28-02.43.28:788][279]LogEditorViewport: Clicking on Actor (LMB): EnemyAI_C (EnemyAI)
+[2018.05.28-02.43.59:597][715]LogSavePackage: Save=598.34ms
+[2018.05.28-02.43.59:597][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/OverwordlLevel0_Auto1F1989D554403A836B9C0FC97B80A4784.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/Maps/OverwordlLevel0_Auto1.umap'
+[2018.05.28-02.43.59:599][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/Maps/OverwordlLevel0_Auto1.umap
+[2018.05.28-02.43.59:605][715]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/OverwordlLevel0' took 0.635
+[2018.05.28-02.43.59:606][715]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.635
+[2018.05.28-02.43.59:621][715]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/EnemyAI] ([1] browsable assets)...
+[2018.05.28-02.43.59:621][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyAI]
+[2018.05.28-02.43.59:621][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyAI" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/Blueprints/EnemyAI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:649][715]LogSavePackage: Save=19.11ms
+[2018.05.28-02.43.59:650][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyAI_Auto1369F8E3D405445D1AB7AE090DA3406FD.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/Blueprints/EnemyAI_Auto1.uasset'
+[2018.05.28-02.43.59:650][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/Blueprints/EnemyAI_Auto1.uasset
+[2018.05.28-02.43.59:651][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0002] ([1] browsable assets)...
+[2018.05.28-02.43.59:656][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0002.EnemyWalk0002]
+[2018.05.28-02.43.59:656][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0002]
+[2018.05.28-02.43.59:656][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0002" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0002_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:668][715]LogSavePackage: Save=8.73ms
+[2018.05.28-02.43.59:668][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0002_Auto1D52CA004482210F0543599A9EF5C2BAF.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0002_Auto1.uasset'
+[2018.05.28-02.43.59:668][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0002_Auto1.uasset
+[2018.05.28-02.43.59:669][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0003] ([1] browsable assets)...
+[2018.05.28-02.43.59:673][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0003.EnemyWalk0003]
+[2018.05.28-02.43.59:673][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0003]
+[2018.05.28-02.43.59:674][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0003" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0003_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:684][715]LogSavePackage: Save=8.34ms
+[2018.05.28-02.43.59:684][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0003_Auto1E32A964D4A7B3A781A5411A658DD1CB5.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0003_Auto1.uasset'
+[2018.05.28-02.43.59:684][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0003_Auto1.uasset
+[2018.05.28-02.43.59:685][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0004] ([1] browsable assets)...
+[2018.05.28-02.43.59:689][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0004.EnemyWalk0004]
+[2018.05.28-02.43.59:689][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0004]
+[2018.05.28-02.43.59:689][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0004" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0004_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:701][715]LogSavePackage: Save=10.11ms
+[2018.05.28-02.43.59:701][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0004_Auto1328B37664F35A6EA80A00EB067FBA4A4.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0004_Auto1.uasset'
+[2018.05.28-02.43.59:702][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0004_Auto1.uasset
+[2018.05.28-02.43.59:702][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0005] ([1] browsable assets)...
+[2018.05.28-02.43.59:707][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0005.EnemyWalk0005]
+[2018.05.28-02.43.59:707][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0005]
+[2018.05.28-02.43.59:707][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0005" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0005_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:718][715]LogSavePackage: Save=9.14ms
+[2018.05.28-02.43.59:718][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0005_Auto1AFE66FEE48E46814E9289DB57D496405.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0005_Auto1.uasset'
+[2018.05.28-02.43.59:718][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0005_Auto1.uasset
+[2018.05.28-02.43.59:718][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0006] ([1] browsable assets)...
+[2018.05.28-02.43.59:723][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0006.EnemyWalk0006]
+[2018.05.28-02.43.59:723][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0006]
+[2018.05.28-02.43.59:723][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0006" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0006_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:734][715]LogSavePackage: Save=8.77ms
+[2018.05.28-02.43.59:734][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0006_Auto153F681C64D603FE991D934A5F3A2A06E.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0006_Auto1.uasset'
+[2018.05.28-02.43.59:735][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0006_Auto1.uasset
+[2018.05.28-02.43.59:735][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0007] ([1] browsable assets)...
+[2018.05.28-02.43.59:739][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0007.EnemyWalk0007]
+[2018.05.28-02.43.59:739][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0007]
+[2018.05.28-02.43.59:740][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0007" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0007_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:751][715]LogSavePackage: Save=9.33ms
+[2018.05.28-02.43.59:751][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0007_Auto17DF196754270DCE7608219834319E2EE.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0007_Auto1.uasset'
+[2018.05.28-02.43.59:752][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0007_Auto1.uasset
+[2018.05.28-02.43.59:752][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0008] ([1] browsable assets)...
+[2018.05.28-02.43.59:757][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0008.EnemyWalk0008]
+[2018.05.28-02.43.59:758][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0008]
+[2018.05.28-02.43.59:758][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0008" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0008_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:768][715]LogSavePackage: Save=8.62ms
+[2018.05.28-02.43.59:768][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0008_Auto19B552B064C16A10F53FB8C82443F1573.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0008_Auto1.uasset'
+[2018.05.28-02.43.59:769][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0008_Auto1.uasset
+[2018.05.28-02.43.59:769][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0009] ([1] browsable assets)...
+[2018.05.28-02.43.59:774][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0009.EnemyWalk0009]
+[2018.05.28-02.43.59:774][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0009]
+[2018.05.28-02.43.59:774][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0009" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0009_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:786][715]LogSavePackage: Save=9.59ms
+[2018.05.28-02.43.59:786][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0009_Auto118DDB08B4B558811846BC68FA31AE9DA.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0009_Auto1.uasset'
+[2018.05.28-02.43.59:787][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0009_Auto1.uasset
+[2018.05.28-02.43.59:787][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0010] ([1] browsable assets)...
+[2018.05.28-02.43.59:792][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0010.EnemyWalk0010]
+[2018.05.28-02.43.59:792][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0010]
+[2018.05.28-02.43.59:792][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0010" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0010_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:804][715]LogSavePackage: Save=9.15ms
+[2018.05.28-02.43.59:804][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0010_Auto1B2C3099E418240123D651FB177C31765.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0010_Auto1.uasset'
+[2018.05.28-02.43.59:804][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0010_Auto1.uasset
+[2018.05.28-02.43.59:805][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0001] ([1] browsable assets)...
+[2018.05.28-02.43.59:810][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0001.EnemyWalk0001]
+[2018.05.28-02.43.59:810][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0001]
+[2018.05.28-02.43.59:811][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0001" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0001_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:822][715]LogSavePackage: Save=8.80ms
+[2018.05.28-02.43.59:822][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0001_Auto16825460342F8FD7D72678297BBFE474C.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0001_Auto1.uasset'
+[2018.05.28-02.43.59:823][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0001_Auto1.uasset
+[2018.05.28-02.43.59:823][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0011] ([1] browsable assets)...
+[2018.05.28-02.43.59:828][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0011.EnemyWalk0011]
+[2018.05.28-02.43.59:828][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0011]
+[2018.05.28-02.43.59:828][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0011" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0011_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:840][715]LogSavePackage: Save=8.54ms
+[2018.05.28-02.43.59:840][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0011_Auto17CD07EB642D33592A5FE37974115BFD0.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0011_Auto1.uasset'
+[2018.05.28-02.43.59:840][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0011_Auto1.uasset
+[2018.05.28-02.43.59:841][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0012] ([1] browsable assets)...
+[2018.05.28-02.43.59:846][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0012.EnemyWalk0012]
+[2018.05.28-02.43.59:846][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0012]
+[2018.05.28-02.43.59:846][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0012" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0012_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:857][715]LogSavePackage: Save=8.08ms
+[2018.05.28-02.43.59:858][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0012_Auto12C1559D74C63044F30CC54B5A3F78134.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0012_Auto1.uasset'
+[2018.05.28-02.43.59:858][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0012_Auto1.uasset
+[2018.05.28-02.43.59:859][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0013] ([1] browsable assets)...
+[2018.05.28-02.43.59:863][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0013.EnemyWalk0013]
+[2018.05.28-02.43.59:863][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0013]
+[2018.05.28-02.43.59:864][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0013" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0013_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:875][715]LogSavePackage: Save=7.98ms
+[2018.05.28-02.43.59:875][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0013_Auto15B1C70D647D4E4FC1024CFB9CFFB59A2.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0013_Auto1.uasset'
+[2018.05.28-02.43.59:875][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0013_Auto1.uasset
+[2018.05.28-02.43.59:876][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0014] ([1] browsable assets)...
+[2018.05.28-02.43.59:881][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0014.EnemyWalk0014]
+[2018.05.28-02.43.59:881][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0014]
+[2018.05.28-02.43.59:881][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0014" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0014_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:891][715]LogSavePackage: Save=7.99ms
+[2018.05.28-02.43.59:891][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0014_Auto18DF4E77044ED8C08FD0E4FAC5DD87CF9.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0014_Auto1.uasset'
+[2018.05.28-02.43.59:892][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0014_Auto1.uasset
+[2018.05.28-02.43.59:892][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0015] ([1] browsable assets)...
+[2018.05.28-02.43.59:897][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0015.EnemyWalk0015]
+[2018.05.28-02.43.59:898][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0015]
+[2018.05.28-02.43.59:898][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0015" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0015_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:908][715]LogSavePackage: Save=8.14ms
+[2018.05.28-02.43.59:908][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0015_Auto10DDD117744AA2CDD96146BA31B26BCEE.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0015_Auto1.uasset'
+[2018.05.28-02.43.59:908][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0015_Auto1.uasset
+[2018.05.28-02.43.59:909][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0016] ([1] browsable assets)...
+[2018.05.28-02.43.59:914][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0016.EnemyWalk0016]
+[2018.05.28-02.43.59:914][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0016]
+[2018.05.28-02.43.59:914][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0016" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0016_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:924][715]LogSavePackage: Save=7.61ms
+[2018.05.28-02.43.59:925][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0016_Auto1771C09CF48B8C108A6DE17BEAF2E7848.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0016_Auto1.uasset'
+[2018.05.28-02.43.59:925][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0016_Auto1.uasset
+[2018.05.28-02.43.59:926][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0017] ([1] browsable assets)...
+[2018.05.28-02.43.59:930][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0017.EnemyWalk0017]
+[2018.05.28-02.43.59:930][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0017]
+[2018.05.28-02.43.59:930][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0017" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0017_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:941][715]LogSavePackage: Save=7.78ms
+[2018.05.28-02.43.59:941][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0017_Auto17F02CE634D280665A22E7F8BB80CECEB.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0017_Auto1.uasset'
+[2018.05.28-02.43.59:942][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0017_Auto1.uasset
+[2018.05.28-02.43.59:942][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0018] ([1] browsable assets)...
+[2018.05.28-02.43.59:948][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0018.EnemyWalk0018]
+[2018.05.28-02.43.59:948][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0018]
+[2018.05.28-02.43.59:948][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0018" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0018_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:958][715]LogSavePackage: Save=7.94ms
+[2018.05.28-02.43.59:958][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0018_Auto128DD531B409923970634CDBDB3E87D0B.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0018_Auto1.uasset'
+[2018.05.28-02.43.59:959][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0018_Auto1.uasset
+[2018.05.28-02.43.59:959][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0019] ([1] browsable assets)...
+[2018.05.28-02.43.59:963][715]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AI/EnemyWalk0019.EnemyWalk0019]
+[2018.05.28-02.43.59:964][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0019]
+[2018.05.28-02.43.59:964][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0019" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0019_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.43.59:974][715]LogSavePackage: Save=7.77ms
+[2018.05.28-02.43.59:974][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0019_Auto140AF961F461E6B438FEE6ABC9521EC96.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0019_Auto1.uasset'
+[2018.05.28-02.43.59:975][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0019_Auto1.uasset
+[2018.05.28-02.43.59:975][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0001_Sprite] ([1] browsable assets)...
+[2018.05.28-02.43.59:984][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0001_Sprite.EnemyWalk0001_Sprite]
+[2018.05.28-02.43.59:984][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0001_Sprite]
+[2018.05.28-02.43.59:997][715]LogSavePackage: Save=10.88ms
+[2018.05.28-02.43.59:997][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0001_Sprite_Auto16707690140EC04A9DE46ABA2F69B9E7B.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0001_Sprite_Auto1.uasset'
+[2018.05.28-02.43.59:998][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0001_Sprite_Auto1.uasset
+[2018.05.28-02.43.59:998][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0002_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:007][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0002_Sprite.EnemyWalk0002_Sprite]
+[2018.05.28-02.44.00:008][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0002_Sprite]
+[2018.05.28-02.44.00:022][715]LogSavePackage: Save=12.11ms
+[2018.05.28-02.44.00:022][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0002_Sprite_Auto182CDFDB4402C92069E6B5B84796443A9.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0002_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:022][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0002_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:023][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0003_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:032][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0003_Sprite.EnemyWalk0003_Sprite]
+[2018.05.28-02.44.00:032][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0003_Sprite]
+[2018.05.28-02.44.00:046][715]LogSavePackage: Save=10.32ms
+[2018.05.28-02.44.00:046][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0003_Sprite_Auto1E1CECDB24077600610FCAE85BAE6AC1A.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0003_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:046][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0003_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:047][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0004_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:055][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0004_Sprite.EnemyWalk0004_Sprite]
+[2018.05.28-02.44.00:055][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0004_Sprite]
+[2018.05.28-02.44.00:070][715]LogSavePackage: Save=10.25ms
+[2018.05.28-02.44.00:070][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0004_Sprite_Auto178B6BD8A4D4D2E97AA076D88B4036F06.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0004_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:070][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0004_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:071][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0005_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:079][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0005_Sprite.EnemyWalk0005_Sprite]
+[2018.05.28-02.44.00:079][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0005_Sprite]
+[2018.05.28-02.44.00:091][715]LogSavePackage: Save=10.86ms
+[2018.05.28-02.44.00:092][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0005_Sprite_Auto1F78DC3374B7B913B9C1556B3D4A6C740.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0005_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:092][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0005_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:093][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0006_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:102][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0006_Sprite.EnemyWalk0006_Sprite]
+[2018.05.28-02.44.00:102][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0006_Sprite]
+[2018.05.28-02.44.00:114][715]LogSavePackage: Save=9.86ms
+[2018.05.28-02.44.00:114][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0006_Sprite_Auto13DAF364347823A3CAA8BCDA80018A515.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0006_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:115][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0006_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:115][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0007_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:122][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0007_Sprite.EnemyWalk0007_Sprite]
+[2018.05.28-02.44.00:122][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0007_Sprite]
+[2018.05.28-02.44.00:136][715]LogSavePackage: Save=12.06ms
+[2018.05.28-02.44.00:136][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0007_Sprite_Auto10F2C6A17466A11CAF0B11EBF76115040.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0007_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:137][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0007_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:137][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0008_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:146][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0008_Sprite.EnemyWalk0008_Sprite]
+[2018.05.28-02.44.00:146][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0008_Sprite]
+[2018.05.28-02.44.00:157][715]LogSavePackage: Save=8.76ms
+[2018.05.28-02.44.00:157][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0008_Sprite_Auto11515AC7D46BFC4B868CE43BE1066AEEB.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0008_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:158][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0008_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:158][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0009_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:167][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0009_Sprite.EnemyWalk0009_Sprite]
+[2018.05.28-02.44.00:167][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0009_Sprite]
+[2018.05.28-02.44.00:178][715]LogSavePackage: Save=8.95ms
+[2018.05.28-02.44.00:178][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0009_Sprite_Auto1A805C6C94F38E199C503B2AF75205CD7.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0009_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:178][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0009_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:179][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0010_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:187][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0010_Sprite.EnemyWalk0010_Sprite]
+[2018.05.28-02.44.00:187][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0010_Sprite]
+[2018.05.28-02.44.00:200][715]LogSavePackage: Save=11.18ms
+[2018.05.28-02.44.00:200][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0010_Sprite_Auto1C2F8F6AE4524516AEB8B24A05FDFEDFC.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0010_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:202][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0010_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:202][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0011_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:210][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0011_Sprite.EnemyWalk0011_Sprite]
+[2018.05.28-02.44.00:210][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0011_Sprite]
+[2018.05.28-02.44.00:224][715]LogSavePackage: Save=11.81ms
+[2018.05.28-02.44.00:224][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0011_Sprite_Auto1A41567034C351BB9BE06ABBF9AC97114.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0011_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:224][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0011_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:225][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0012_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:234][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0012_Sprite.EnemyWalk0012_Sprite]
+[2018.05.28-02.44.00:234][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0012_Sprite]
+[2018.05.28-02.44.00:246][715]LogSavePackage: Save=10.25ms
+[2018.05.28-02.44.00:246][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0012_Sprite_Auto1F262038647EF6CBD0C9F45A19D8C8B90.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0012_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:247][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0012_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:247][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0013_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:255][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0013_Sprite.EnemyWalk0013_Sprite]
+[2018.05.28-02.44.00:255][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0013_Sprite]
+[2018.05.28-02.44.00:268][715]LogSavePackage: Save=10.91ms
+[2018.05.28-02.44.00:268][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0013_Sprite_Auto13233654E464B355D423725AF69BD38B7.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0013_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:269][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0013_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:269][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0014_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:277][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0014_Sprite.EnemyWalk0014_Sprite]
+[2018.05.28-02.44.00:277][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0014_Sprite]
+[2018.05.28-02.44.00:290][715]LogSavePackage: Save=10.58ms
+[2018.05.28-02.44.00:290][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0014_Sprite_Auto101CDF1A64A76E5581EC0D3A9B4963DE9.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0014_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:291][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0014_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:291][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0015_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:300][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0015_Sprite.EnemyWalk0015_Sprite]
+[2018.05.28-02.44.00:300][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0015_Sprite]
+[2018.05.28-02.44.00:311][715]LogSavePackage: Save=9.55ms
+[2018.05.28-02.44.00:311][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0015_Sprite_Auto1896048AE4F30E0DA64430AB13D873E2A.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0015_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:312][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0015_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:312][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0016_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:321][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0016_Sprite.EnemyWalk0016_Sprite]
+[2018.05.28-02.44.00:321][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0016_Sprite]
+[2018.05.28-02.44.00:333][715]LogSavePackage: Save=9.74ms
+[2018.05.28-02.44.00:333][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0016_Sprite_Auto1695AD6974076E9FCBA7948BC3F462F68.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0016_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:334][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0016_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:334][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0017_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:343][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0017_Sprite.EnemyWalk0017_Sprite]
+[2018.05.28-02.44.00:343][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0017_Sprite]
+[2018.05.28-02.44.00:357][715]LogSavePackage: Save=11.79ms
+[2018.05.28-02.44.00:357][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0017_Sprite_Auto1E0FC754D4CAB2C53461C858BFE3DCAB8.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0017_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:358][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0017_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:358][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0018_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:367][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0018_Sprite.EnemyWalk0018_Sprite]
+[2018.05.28-02.44.00:367][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0018_Sprite]
+[2018.05.28-02.44.00:380][715]LogSavePackage: Save=10.88ms
+[2018.05.28-02.44.00:380][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0018_Sprite_Auto13494504545F04ACE7490B39F6C3E5DC7.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0018_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:380][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0018_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:381][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk0019_Sprite] ([1] browsable assets)...
+[2018.05.28-02.44.00:391][715]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/AI/EnemyWalk0019_Sprite.EnemyWalk0019_Sprite]
+[2018.05.28-02.44.00:391][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk0019_Sprite]
+[2018.05.28-02.44.00:404][715]LogSavePackage: Save=10.74ms
+[2018.05.28-02.44.00:404][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0019_Sprite_Auto12F034FFF4A35D7351110B3A1C22C010C.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0019_Sprite_Auto1.uasset'
+[2018.05.28-02.44.00:405][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk0019_Sprite_Auto1.uasset
+[2018.05.28-02.44.00:405][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/EnemyWalk] ([1] browsable assets)...
+[2018.05.28-02.44.00:414][715]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/AI/EnemyWalk.EnemyWalk]
+[2018.05.28-02.44.00:414][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/EnemyWalk]
+[2018.05.28-02.44.00:414][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.28-02.44.00:427][715]LogSavePackage: Save=10.67ms
+[2018.05.28-02.44.00:428][715]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk_Auto16CF264E342FBCA2DC1D208A1D126A47A.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk_Auto1.uasset'
+[2018.05.28-02.44.00:428][715]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Saved/Autosaves/Game/AI/EnemyWalk_Auto1.uasset
+[2018.05.28-02.44.00:428][715]LogFileHelpers: Auto-saving content packages took 0.818
+[2018.05.28-02.50.20:487][901]LogHotReload: New module detected: UE4Editor-MyProject-2250.dll
+[2018.05.28-02.50.21:168][904]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.28-02.50.21:255][904]LogClass: Could not find existing class EnemyAI in package /Script/MyProject for HotReload, assuming new class
+[2018.05.28-02.50.21:255][904]LogClass: Function OnPawnSeen is new.
+[2018.05.28-02.50.21:266][904]LogHotReload: Re-instancing EnemyAI after hot-reload.
+[2018.05.28-02.50.21:558][904]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0006 seconds. Added 6 classes and 3 folders.
+[2018.05.28-02.50.21:561][904]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.28-02.50.21:829][904]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2371 classes and 526 folders.
+[2018.05.28-02.50.21:836][904]Display: HotReload took  0.7s.
+[2018.05.28-02.53.53:845][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk.uasset" SILENT=true
+[2018.05.28-02.53.53:866][605]LogSavePackage: Save=15.20ms
+[2018.05.28-02.53.53:867][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk943DD19C4120BAE9C0B81EA73A974BFA.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk.uasset'
+[2018.05.28-02.53.53:881][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk.uasset
+[2018.05.28-02.53.53:894][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0001" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0001.uasset" SILENT=true
+[2018.05.28-02.53.53:927][605]LogSavePackage: Save=29.90ms
+[2018.05.28-02.53.53:927][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0001859CFBB1499B573DA40B9A9B27F04D46.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0001.uasset'
+[2018.05.28-02.53.53:941][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0001.uasset
+[2018.05.28-02.53.53:957][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0001_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0001_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.53:974][605]LogSavePackage: Save=12.55ms
+[2018.05.28-02.53.53:974][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0001_Sprite99DEBAF34AB8CA67FF71EC9189CE3056.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0001_Sprite.uasset'
+[2018.05.28-02.53.54:202][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0001_Sprite.uasset
+[2018.05.28-02.53.54:214][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0002" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0002.uasset" SILENT=true
+[2018.05.28-02.53.54:243][605]LogSavePackage: Save=26.44ms
+[2018.05.28-02.53.54:243][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0002FE4A259E4428CED3141FEEA5E17CFA89.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0002.uasset'
+[2018.05.28-02.53.54:251][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0002.uasset
+[2018.05.28-02.53.54:267][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0002_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0002_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.54:282][605]LogSavePackage: Save=11.04ms
+[2018.05.28-02.53.54:282][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0002_SpriteA0DB7E3A433EBCB54416B2BA2F1B8C2E.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0002_Sprite.uasset'
+[2018.05.28-02.53.54:294][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0002_Sprite.uasset
+[2018.05.28-02.53.54:303][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0003" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0003.uasset" SILENT=true
+[2018.05.28-02.53.54:327][605]LogSavePackage: Save=20.70ms
+[2018.05.28-02.53.54:328][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0003EE2F9AEF46C599B8991F58B132DDB0DF.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0003.uasset'
+[2018.05.28-02.53.54:339][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0003.uasset
+[2018.05.28-02.53.54:351][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0003_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0003_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.54:367][605]LogSavePackage: Save=14.10ms
+[2018.05.28-02.53.54:367][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0003_Sprite8DFC6AB24398AD427F52A28A2A24581F.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0003_Sprite.uasset'
+[2018.05.28-02.53.54:378][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0003_Sprite.uasset
+[2018.05.28-02.53.54:388][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0004" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0004.uasset" SILENT=true
+[2018.05.28-02.53.54:412][605]LogSavePackage: Save=21.05ms
+[2018.05.28-02.53.54:413][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0004384B4DE743911993BFF025BF6A2A40D4.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0004.uasset'
+[2018.05.28-02.53.54:423][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0004.uasset
+[2018.05.28-02.53.54:440][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0004_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0004_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.54:452][605]LogSavePackage: Save=10.18ms
+[2018.05.28-02.53.54:452][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0004_Sprite5946C8F64F308AEF7EB599A5092D1929.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0004_Sprite.uasset'
+[2018.05.28-02.53.54:463][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0004_Sprite.uasset
+[2018.05.28-02.53.54:473][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0005" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0005.uasset" SILENT=true
+[2018.05.28-02.53.54:499][605]LogSavePackage: Save=23.32ms
+[2018.05.28-02.53.54:499][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0005F34D76CE4C05AABF1A5236A6DD3D0488.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0005.uasset'
+[2018.05.28-02.53.54:508][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0005.uasset
+[2018.05.28-02.53.54:522][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0005_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0005_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.54:535][605]LogSavePackage: Save=10.09ms
+[2018.05.28-02.53.54:535][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0005_Sprite971F4B9A46ED48A91666F7B500CA011B.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0005_Sprite.uasset'
+[2018.05.28-02.53.54:545][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0005_Sprite.uasset
+[2018.05.28-02.53.54:554][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0006" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0006.uasset" SILENT=true
+[2018.05.28-02.53.54:579][605]LogSavePackage: Save=20.58ms
+[2018.05.28-02.53.54:579][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0006530C68924936737959CFAEB1B9B18071.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0006.uasset'
+[2018.05.28-02.53.54:590][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0006.uasset
+[2018.05.28-02.53.54:601][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0006_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0006_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.54:616][605]LogSavePackage: Save=11.78ms
+[2018.05.28-02.53.54:616][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0006_SpriteBA2A7F1144C1D1CE50B174AB93583DC9.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0006_Sprite.uasset'
+[2018.05.28-02.53.54:626][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0006_Sprite.uasset
+[2018.05.28-02.53.54:635][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0007" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0007.uasset" SILENT=true
+[2018.05.28-02.53.54:658][605]LogSavePackage: Save=20.25ms
+[2018.05.28-02.53.54:658][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0007E7E9656B45737269B1CECDBA31E4CB94.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0007.uasset'
+[2018.05.28-02.53.54:666][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0007.uasset
+[2018.05.28-02.53.54:679][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0007_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0007_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.54:694][605]LogSavePackage: Save=12.64ms
+[2018.05.28-02.53.54:694][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0007_Sprite3489CFAA4101DF1A903EB98927AF3774.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0007_Sprite.uasset'
+[2018.05.28-02.53.54:704][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0007_Sprite.uasset
+[2018.05.28-02.53.54:712][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0008" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0008.uasset" SILENT=true
+[2018.05.28-02.53.54:734][605]LogSavePackage: Save=19.33ms
+[2018.05.28-02.53.54:734][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk00087657D0754CAD3793EE2F86BDA389BE94.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0008.uasset'
+[2018.05.28-02.53.54:743][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0008.uasset
+[2018.05.28-02.53.54:754][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0008_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0008_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.54:768][605]LogSavePackage: Save=10.59ms
+[2018.05.28-02.53.54:769][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0008_Sprite8ABFB41D43C451179DC13DB2BFA2D36A.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0008_Sprite.uasset'
+[2018.05.28-02.53.54:779][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0008_Sprite.uasset
+[2018.05.28-02.53.54:788][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0009" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0009.uasset" SILENT=true
+[2018.05.28-02.53.54:814][605]LogSavePackage: Save=20.58ms
+[2018.05.28-02.53.54:814][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk00093A17C37F42AC300ACD93E483D676690D.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0009.uasset'
+[2018.05.28-02.53.54:824][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0009.uasset
+[2018.05.28-02.53.54:838][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0009_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0009_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.54:851][605]LogSavePackage: Save=10.90ms
+[2018.05.28-02.53.54:851][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0009_SpriteA35E9D384DF6A465FCDF16821352A30A.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0009_Sprite.uasset'
+[2018.05.28-02.53.54:862][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0009_Sprite.uasset
+[2018.05.28-02.53.54:870][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0010" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0010.uasset" SILENT=true
+[2018.05.28-02.53.54:893][605]LogSavePackage: Save=20.15ms
+[2018.05.28-02.53.54:893][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0010F26576FF4FC37B38A4C52481149A7660.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0010.uasset'
+[2018.05.28-02.53.54:902][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0010.uasset
+[2018.05.28-02.53.54:915][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0010_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0010_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.54:929][605]LogSavePackage: Save=11.46ms
+[2018.05.28-02.53.54:929][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0010_SpriteF9C9C98740C79D84008B2598D5C3B83C.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0010_Sprite.uasset'
+[2018.05.28-02.53.54:940][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0010_Sprite.uasset
+[2018.05.28-02.53.54:949][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0011" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0011.uasset" SILENT=true
+[2018.05.28-02.53.54:973][605]LogSavePackage: Save=21.54ms
+[2018.05.28-02.53.54:973][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk001121281DC742F430513EEB0F85A7CBCBDB.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0011.uasset'
+[2018.05.28-02.53.54:982][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0011.uasset
+[2018.05.28-02.53.54:995][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0011_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0011_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.55:009][605]LogSavePackage: Save=12.01ms
+[2018.05.28-02.53.55:009][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0011_SpriteD06202A245AAE11A45A60392A0727C5E.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0011_Sprite.uasset'
+[2018.05.28-02.53.55:017][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0011_Sprite.uasset
+[2018.05.28-02.53.55:026][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0012" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0012.uasset" SILENT=true
+[2018.05.28-02.53.55:048][605]LogSavePackage: Save=19.15ms
+[2018.05.28-02.53.55:048][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0012199712AB40BC9B8AF0C775A231E3B423.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0012.uasset'
+[2018.05.28-02.53.55:056][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0012.uasset
+[2018.05.28-02.53.55:069][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0012_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0012_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.55:082][605]LogSavePackage: Save=9.43ms
+[2018.05.28-02.53.55:082][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0012_Sprite5FE5F4D44BF51D8E07A3B481C6505898.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0012_Sprite.uasset'
+[2018.05.28-02.53.55:092][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0012_Sprite.uasset
+[2018.05.28-02.53.55:101][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0013" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0013.uasset" SILENT=true
+[2018.05.28-02.53.55:124][605]LogSavePackage: Save=21.17ms
+[2018.05.28-02.53.55:124][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0013FD6DBDBB4357F2E133939E981D88F470.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0013.uasset'
+[2018.05.28-02.53.55:133][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0013.uasset
+[2018.05.28-02.53.55:146][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0013_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0013_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.55:159][605]LogSavePackage: Save=11.46ms
+[2018.05.28-02.53.55:159][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0013_Sprite797C76BC4FD701FC3F36AF99767DB5C7.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0013_Sprite.uasset'
+[2018.05.28-02.53.55:174][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0013_Sprite.uasset
+[2018.05.28-02.53.55:183][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0014" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0014.uasset" SILENT=true
+[2018.05.28-02.53.55:207][605]LogSavePackage: Save=20.66ms
+[2018.05.28-02.53.55:207][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0014338A1C6F460CDF46668D03BA7BF8C5B0.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0014.uasset'
+[2018.05.28-02.53.55:215][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0014.uasset
+[2018.05.28-02.53.55:230][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0014_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0014_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.55:244][605]LogSavePackage: Save=11.86ms
+[2018.05.28-02.53.55:244][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0014_Sprite8AE66879420BD1CE952169935B921D9F.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0014_Sprite.uasset'
+[2018.05.28-02.53.55:252][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0014_Sprite.uasset
+[2018.05.28-02.53.55:264][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0015" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0015.uasset" SILENT=true
+[2018.05.28-02.53.55:285][605]LogSavePackage: Save=18.54ms
+[2018.05.28-02.53.55:285][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0015C73994174522AE77D6447CA40F187181.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0015.uasset'
+[2018.05.28-02.53.55:294][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0015.uasset
+[2018.05.28-02.53.55:307][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0015_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0015_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.55:323][605]LogSavePackage: Save=12.62ms
+[2018.05.28-02.53.55:323][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0015_Sprite7F72AAEA4C9416A432C440A9A7C698AB.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0015_Sprite.uasset'
+[2018.05.28-02.53.55:333][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0015_Sprite.uasset
+[2018.05.28-02.53.55:347][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0016" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0016.uasset" SILENT=true
+[2018.05.28-02.53.55:367][605]LogSavePackage: Save=18.63ms
+[2018.05.28-02.53.55:368][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0016A5CCD5B2447454874B1C579F5912A688.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0016.uasset'
+[2018.05.28-02.53.55:378][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0016.uasset
+[2018.05.28-02.53.55:389][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0016_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0016_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.55:402][605]LogSavePackage: Save=10.18ms
+[2018.05.28-02.53.55:402][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0016_Sprite57A1AD2D4FF2F9F12D8AFC86DBB9DC37.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0016_Sprite.uasset'
+[2018.05.28-02.53.55:413][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0016_Sprite.uasset
+[2018.05.28-02.53.55:421][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0017" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0017.uasset" SILENT=true
+[2018.05.28-02.53.55:446][605]LogSavePackage: Save=21.89ms
+[2018.05.28-02.53.55:446][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0017C6803C154621A2000424F7B093FA9023.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0017.uasset'
+[2018.05.28-02.53.55:455][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0017.uasset
+[2018.05.28-02.53.55:468][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0017_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0017_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.55:482][605]LogSavePackage: Save=11.85ms
+[2018.05.28-02.53.55:482][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0017_Sprite3A89EF1349375594144A4782CD1F4C27.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0017_Sprite.uasset'
+[2018.05.28-02.53.55:492][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0017_Sprite.uasset
+[2018.05.28-02.53.55:500][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0018" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0018.uasset" SILENT=true
+[2018.05.28-02.53.55:522][605]LogSavePackage: Save=21.26ms
+[2018.05.28-02.53.55:522][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0018DBD4231E4B44BDEFA8CBF5B4675C251B.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0018.uasset'
+[2018.05.28-02.53.55:531][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0018.uasset
+[2018.05.28-02.53.55:543][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0018_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0018_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.55:559][605]LogSavePackage: Save=12.51ms
+[2018.05.28-02.53.55:559][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0018_SpriteE98E785240B5AE496A8428B5D5C3D858.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0018_Sprite.uasset'
+[2018.05.28-02.53.55:567][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0018_Sprite.uasset
+[2018.05.28-02.53.55:577][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0019" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0019.uasset" SILENT=true
+[2018.05.28-02.53.55:599][605]LogSavePackage: Save=19.24ms
+[2018.05.28-02.53.55:599][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk00195A0111D841DB45471C05A49ACC708718.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0019.uasset'
+[2018.05.28-02.53.55:609][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0019.uasset
+[2018.05.28-02.53.55:621][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/EnemyWalk0019_Sprite" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0019_Sprite.uasset" SILENT=true
+[2018.05.28-02.53.55:636][605]LogSavePackage: Save=10.70ms
+[2018.05.28-02.53.55:636][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyWalk0019_SpriteC20F08864D4C0245CCA6E99E58E5FDDD.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0019_Sprite.uasset'
+[2018.05.28-02.53.55:642][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/AI/EnemyWalk0019_Sprite.uasset
+[2018.05.28-02.53.55:646][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyAI" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/Blueprints/EnemyAI.uasset" SILENT=true
+[2018.05.28-02.53.55:675][605]LogSavePackage: Save=19.38ms
+[2018.05.28-02.53.55:675][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/EnemyAIDACC9B1644826DAB7A6C08A598990B79.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/Blueprints/EnemyAI.uasset'
+[2018.05.28-02.53.55:680][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/Blueprints/EnemyAI.uasset
+[2018.05.28-02.53.55:814][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OverwordlLevel0" FILE="../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverwordlLevel0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.28-02.53.56:528][605]LogSavePackage: Save=653.99ms
+[2018.05.28-02.53.56:528][605]LogSavePackage: Moving '../../../../../Unreal Projects/untitled-project/MyProject/Saved/OverwordlLevel0BE2FD60B45E23CE8C2448B8FFB8FA099.tmp' to '../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverwordlLevel0.umap'
+[2018.05.28-02.53.56:533][605]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/untitled-project/MyProject/Content/Maps/OverwordlLevel0.umap
+[2018.05.28-02.53.56:563][605]LogFileHelpers: Saving map 'OverwordlLevel0' took 0.879
+[2018.05.28-02.53.56:873][606]Cmd: QUIT_EDITOR
+[2018.05.28-02.53.56:902][606]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.28-02.53.56:922][606]LogExit: Preparing to exit.
+[2018.05.28-02.53.57:983][606]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/untitled-project/MyProject/Content/' was aborted.
+[2018.05.28-02.53.58:025][606]LogExit: Editor shut down
+[2018.05.28-02.53.58:032][606]LogExit: Transaction tracking system shut down
+[2018.05.28-02.53.58:202][606]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.28-02.53.58:202][606]LogDirectoryWatcher: A directory notification for '../../../../../Unreal Projects/untitled-project/MyProject/Content/' was aborted.
+[2018.05.28-02.53.58:202][606]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.28-02.53.58:202][606]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.28-02.53.58:202][606]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.28-02.53.58:202][606]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.28-02.53.58:202][606]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.28-02.53.58:334][606]LogExit: Object subsystem successfully closed.
+[2018.05.28-02.53.58:359][606]LogD3D11RHI: Shutdown
+[2018.05.28-02.53.58:359][606]LogD3D11RHI: CleanupD3DDevice
+[2018.05.28-02.53.58:361][606]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.28-02.53.58:379][606]LogModuleManager: Shutting down and abandoning module MyProject (556)
+[2018.05.28-02.53.58:379][606]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2018.05.28-02.53.58:379][606]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (552)
+[2018.05.28-02.53.58:379][606]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.05.28-02.53.58:379][606]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2018.05.28-02.53.58:379][606]LogDirectoryWatcher: A directory notification for 'D:/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.05.28-02.53.58:380][606]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2018.05.28-02.53.58:380][606]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2018.05.28-02.53.58:380][606]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2018.05.28-02.53.58:380][606]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/untitled-project/MyProject/Content/Collections/' was aborted.
+[2018.05.28-02.53.58:380][606]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/untitled-project/MyProject/Content/Developers/Alvin/Collections/' was aborted.
+[2018.05.28-02.53.58:380][606]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/untitled-project/MyProject/Saved/Collections/' was aborted.
+[2018.05.28-02.53.58:380][606]LogModuleManager: Shutting down and abandoning module SceneOutliner (540)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.05.28-02.53.58:381][606]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.05.28-02.53.58:382][606]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.05.28-02.53.58:382][606]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.05.28-02.53.58:382][606]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.05.28-02.53.58:382][606]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.05.28-02.53.58:382][606]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.05.28-02.53.58:443][606]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.05.28-02.53.58:444][606]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.05.28-02.53.58:444][606]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.05.28-02.53.58:444][606]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.05.28-02.53.58:444][606]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.05.28-02.53.58:444][606]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.05.28-02.53.58:444][606]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.05.28-02.53.58:444][606]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.05.28-02.53.58:498][606]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.05.28-02.53.58:498][606]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.05.28-02.53.58:498][606]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.05.28-02.53.58:498][606]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.05.28-02.53.58:498][606]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.05.28-02.53.58:498][606]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.05.28-02.53.58:498][606]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.05.28-02.53.58:498][606]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.05.28-02.53.58:498][606]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.05.28-02.53.58:498][606]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.05.28-02.53.58:507][606]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.05.28-02.53.58:508][606]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.05.28-02.53.58:508][606]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.05.28-02.53.58:508][606]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.05.28-02.53.58:652][606]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.05.28-02.53.58:652][606]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.05.28-02.53.58:652][606]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.05.28-02.53.58:652][606]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.05.28-02.53.58:652][606]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.05.28-02.53.58:652][606]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.05.28-02.53.58:652][606]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.05.28-02.53.58:652][606]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.05.28-02.53.58:652][606]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.05.28-02.53.58:652][606]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.05.28-02.53.58:652][606]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.05.28-02.53.58:652][606]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2018.05.28-02.53.58:653][606]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2018.05.28-02.53.58:654][606]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2018.05.28-02.53.58:654][606]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2018.05.28-02.53.58:654][606]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2018.05.28-02.53.58:654][606]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/untitled-project/MyProject/Binaries/Win64' was aborted.
+[2018.05.28-02.53.58:654][606]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.05.28-02.53.58:655][606]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.05.28-02.53.58:655][606]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.05.28-02.53.58:655][606]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.05.28-02.53.58:655][606]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.05.28-02.53.58:655][606]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.05.28-02.53.58:655][606]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.05.28-02.53.58:655][606]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2018.05.28-02.53.58:755][606]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2018.05.28-02.53.58:855][606]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (252)
+[2018.05.28-02.53.58:855][606]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (250)
+[2018.05.28-02.53.58:855][606]LogModuleManager: Shutting down and abandoning module FacialAnimation (248)
+[2018.05.28-02.53.58:855][606]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (246)
+[2018.05.28-02.53.58:855][606]LogModuleManager: Shutting down and abandoning module GraphEditor (245)
+[2018.05.28-02.53.58:855][606]LogModuleManager: Shutting down and abandoning module ContentBrowser (243)
+[2018.05.28-02.53.58:856][606]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (240)
+[2018.05.28-02.53.58:856][606]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.05.28-02.53.58:856][606]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.05.28-02.53.58:856][606]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.05.28-02.53.58:858][606]LogModuleManager: Shutting down and abandoning module ImgMedia (232)
+[2018.05.28-02.53.58:858][606]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.05.28-02.53.58:858][606]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.05.28-02.53.58:858][606]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.05.28-02.53.58:859][606]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.05.28-02.53.58:859][606]LogModuleManager: Shutting down and abandoning module Media (223)
+[2018.05.28-02.53.58:865][606]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2018.05.28-02.53.58:865][606]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2018.05.28-02.53.58:865][606]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2018.05.28-02.53.58:865][606]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2018.05.28-02.53.58:865][606]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2018.05.28-02.53.58:865][606]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2018.05.28-02.53.58:865][606]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2018.05.28-02.53.58:865][606]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2018.05.28-02.53.58:866][606]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2018.05.28-02.53.58:866][606]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2018.05.28-02.53.58:866][606]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2018.05.28-02.53.58:866][606]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2018.05.28-02.53.58:866][606]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2018.05.28-02.53.58:866][606]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2018.05.28-02.53.58:866][606]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2018.05.28-02.53.58:866][606]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2018.05.28-02.53.58:868][606]LogModuleManager: Shutting down and abandoning module MRMesh (186)
+[2018.05.28-02.53.58:868][606]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (184)
+[2018.05.28-02.53.58:868][606]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (182)
+[2018.05.28-02.53.58:868][606]LogModuleManager: Shutting down and abandoning module XAudio2 (180)
+[2018.05.28-02.53.58:868][606]LogModuleManager: Shutting down and abandoning module Networking (178)
+[2018.05.28-02.53.58:868][606]LogModuleManager: Shutting down and abandoning module Core (174)
+[2018.05.28-02.53.58:868][606]LogModuleManager: Shutting down and abandoning module LevelSequence (170)
+[2018.05.28-02.53.58:868][606]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (168)
+[2018.05.28-02.53.58:869][606]LogModuleManager: Shutting down and abandoning module KismetCompiler (166)
+[2018.05.28-02.53.58:869][606]LogModuleManager: Shutting down and abandoning module MeshUtilities (164)
+[2018.05.28-02.53.58:869][606]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (163)
+[2018.05.28-02.53.58:869][606]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (162)
+[2018.05.28-02.53.58:869][606]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (161)
+[2018.05.28-02.53.58:869][606]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (159)
+[2018.05.28-02.53.58:869][606]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (157)
+[2018.05.28-02.53.58:869][606]LogModuleManager: Shutting down and abandoning module MaterialBaking (153)
+[2018.05.28-02.53.58:869][606]LogModuleManager: Shutting down and abandoning module DerivedDataCache (150)
+[2018.05.28-02.53.58:890][606]LogDerivedDataCache: Shutdown
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2018.05.28-02.53.58:890][606]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (99)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (97)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (95)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (93)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module AugmentedReality (53)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (50)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2018.05.28-02.53.58:891][606]LogModuleManager: Shutting down and abandoning module XMPP (45)
+[2018.05.28-02.53.58:892][606]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2018.05.28-02.53.58:892][606]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.28-02.53.58:892][606]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3848A6E9-4755-E7F6-B8B9-DB868C43972C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=a5f08593470236ff71bec6ae614ca987%7C84b7e9a7edca424e8d1f431b48cdff00%7C7d40a6e4-f797-4f48-9d1b-91c0a6711aa7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.28-02.53.58:927][606]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2018.05.28-02.53.58:928][606]LogModuleManager: Shutting down and abandoning module DesktopPlatform (38)
+[2018.05.28-02.53.58:928][606]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.28-02.53.58:928][606]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.28-02.53.58:928][606]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.28-02.53.58:929][606]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.28-02.53.58:935][606]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.28-02.53.58:935][606]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.28-02.53.58:935][606]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.28-02.53.58:937][606]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.28-02.53.58:937][606]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.28-02.53.58:937][606]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.28-02.53.58:937][606]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.28-02.53.58:937][606]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.28-02.53.58:937][606]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.28-02.53.58:937][606]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.28-02.53.58:937][606]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.28-02.53.58:937][606]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.28-02.53.58:937][606]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.28-02.53.58:937][606]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.28-02.53.58:941][606]LogExit: Exiting.
+[2018.05.28-02.53.58:956][606]Log file closed, 05/27/18 19:53:58
